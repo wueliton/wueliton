@@ -19,6 +19,4 @@ Custom WordPress templates and plugins
 - ![Progress](https://progress-bar.dev/98/) HTML
 - ![Progress](https://progress-bar.dev/98/) CSS
 - ![Progress](https://progress-bar.dev/80/) JavaScript
-- ![Progress](https://progress-bar.dev/50/) NodeJS
-- ![Progress](https://progress-bar.dev/30/) ReactJS
-- ![Progress](https://progress-bar.dev/70/) NextJS
+- ![Progress](https://progress-bar.dev/50/) ReactJS
