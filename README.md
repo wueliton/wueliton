@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**wueliton/wueliton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paulo, 26 years old, I'm living on São Paulo, Brasil.
 
-Here are some ideas to get you started:
+🌱 I'm learning JS6, React, NextJS and TypeScript, I intent to be a Javascript Developer, however I'm working with PHP, on Conceito Publicidade, developing PHP sites and sistems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills is:
+
+Design Websites and Apps (basic experience in UI/UX) on Figma
+Sites and Sistems Development (PHP, HTML5, CSS, JavaScript, JQuery and SEO Tecniques)
+E-mail Marketing Design and Strategy
+Design for Social Media and Advertsing on Social Media (Instagram, Facebook, Linkedin)
+SEO strategies (for Organic Google Search)
+Custom WordPress templates and plugins
+
+### Development:
+
+- ![Progress](https://progress-bar.dev/80/) PHP
+- ![Progress](https://progress-bar.dev/98/) HTML
+- ![Progress](https://progress-bar.dev/98/) CSS
+- ![Progress](https://progress-bar.dev/80/) JavaScript
+- ![Progress](https://progress-bar.dev/50/) NodeJS
+- ![Progress](https://progress-bar.dev/30/) ReactJS
+- ![Progress](https://progress-bar.dev/70/) NextJS
