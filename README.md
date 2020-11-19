@@ -6,12 +6,12 @@ My name is Paulo, 26 years old, I'm living on São Paulo, Brasil.
 
 ## My Skills is:
 
-Design Websites and Apps (basic experience in UI/UX) on Figma
-Sites and Sistems Development (PHP, HTML5, CSS, JavaScript, JQuery and SEO Tecniques)
-E-mail Marketing Design and Strategy
-Design for Social Media and Advertsing on Social Media (Instagram, Facebook, Linkedin)
-SEO strategies (for Organic Google Search)
-Custom WordPress templates and plugins
+- Design Websites and Apps (basic experience in UI/UX) on Figma
+- Sites and Sistems Development (PHP, HTML5, CSS, JavaScript, JQuery and SEO Tecniques)
+- E-mail Marketing Design and Strategy
+- Design for Social Media and Advertsing on Social Media (Instagram, Facebook, Linkedin)
+- SEO strategies (for Organic Google Search)
+- Custom WordPress templates and plugins
 
 ### Development:
 
