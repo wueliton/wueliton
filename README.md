@@ -4,7 +4,7 @@ My name is Paulo, 26 years old, I'm living on São Paulo, Brasil.
 
 🌱 I'm learning ES6, React, NextJS and TypeScript, I intent to be a Javascript Developer, however I'm working with PHP, on Conceito Publicidade, developing PHP sites and sistems.
 
-## My Skills is:
+## My Skills are:
 
 - Design Websites and Apps (basic experience in UI/UX) on Figma
 - Sites and Sistems Development (PHP, HTML5, CSS, JavaScript, JQuery and SEO Tecniques)
